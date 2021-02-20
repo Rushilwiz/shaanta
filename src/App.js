@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <h1>Shaanta Inc's site is currently under development.</h1>
       <h3>Please enjoy this image in the meantime:</h3>
-      <img src="{family}" />
+      <img src={family} alt="nice family"/>
     </div>
   );
 }
